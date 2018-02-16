@@ -12,11 +12,11 @@
  */
 
 importScripts(
-  "/testvuepwa/precache-manifest.0e4c953a99f9f6bd5e0be39b07ebef22.js",
+  "/precache-manifest.76f280096e99da018413cfc0a1fd37d8.js",
   "https://storage.googleapis.com/workbox-cdn/releases/3.0.0-beta.0/workbox-sw.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "testvuepwa"});
+workbox.core.setCacheNameDetails({prefix: "testvuepwa2"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
